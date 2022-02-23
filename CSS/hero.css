@@ -1,5 +1,6 @@
 body{
 	margin: 0;
+	
 }
 
 
@@ -11,9 +12,13 @@ header{
 
 }
 
+h1 h2{
+font-family: 'Press Start 2P', cursive;
+}
+
 header h1{
 	color: white;
-	font-family: Helvetica, arial, sans-serif;
+
 }
 
 header img {
