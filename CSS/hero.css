@@ -1,11 +1,11 @@
 body{
 	margin: 0;
+	background-color: white;
 	
 }
 
 
 header{
-	background-color: black;
 	text-align: center;
 	padding-top: 50px;
 	padding-bottom: 50px;
@@ -14,12 +14,14 @@ header{
 
 h1 h2{
 font-family: 'Press Start 2P', cursive;
+color: whitesmoke;
 }
 
 header h1{
-	color: white;
+	color: whitesmoke;
 
 }
+
 
 header img {
     border-radius: 170px;
@@ -38,5 +40,5 @@ main img{
 }
 p{
 	text-align: center;
-	
+
 }
